@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Activity, AlertTriangle, TrendingUp, Users } from 'lucide-react';
-import Layout from '../layout/Layout';
+import Layout from '../Layout/Layout';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { Badge } from '../components/ui/badge';
 import { doctorAPI } from '../api';
@@ -257,3 +257,4 @@ export const DoctorDashboard = () => {
 };
 
 export default DoctorDashboard;
+
