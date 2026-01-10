@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Activity, BarChart3, CheckCircle2, Clock, TrendingUp, Users } from 'lucide-react';
-import Layout from '../layout/Layout';
+import Layout from '../Layout/Layout';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { Badge } from '../components/ui/badge';
 import { adminAPI } from '../api';
@@ -263,3 +263,4 @@ export const AdminDashboard = () => {
 };
 
 export default AdminDashboard;
+
