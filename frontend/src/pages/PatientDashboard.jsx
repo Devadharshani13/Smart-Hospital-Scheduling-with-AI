@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AlertCircle, Brain, Calendar, Clock, MapPin, Sparkles, TrendingUp } from 'lucide-react';
-import Layout from '../layout/Layout';
+import Layout from '../Layout/Layout';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { Input } from '../components/ui/input';
@@ -319,3 +319,4 @@ export const PatientDashboard = () => {
 };
 
 export default PatientDashboard;
+
