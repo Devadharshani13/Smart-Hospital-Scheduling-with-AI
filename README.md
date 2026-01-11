@@ -3,9 +3,10 @@
 An end-to-end, production-ready **AI-powered healthcare application** designed to predict OPD load, assess patient risk, and optimize hospital scheduling using **Generative AI, Agentic AI, and intelligent workflows**.  
 This project aligns with **UN Sustainable Development Goal 3 – Good Health and Well-Being**.
 
---- 
+
 ![image_alt](https://github.com/Devadharshani13/Smart-Hospital-Scheduling-with-AI/blob/main/Screenshots/Login%20view.png?raw=true)
 
+---
 ## 📌 Project Overview
 
 Hospitals often struggle with OPD overcrowding, long waiting times, and inefficient scheduling due to manual and non-predictive systems.  
