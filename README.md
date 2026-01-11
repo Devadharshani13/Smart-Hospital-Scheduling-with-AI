@@ -1,4 +1,3 @@
-```markdown
 # 🏥 AI-Based Hospital OPD Load Prediction & Smart Scheduling System
 
 An end-to-end, production-ready **AI-powered healthcare application** designed to predict OPD load, assess patient risk, and optimize hospital scheduling using **Generative AI, Agentic AI, and intelligent workflows**.  
@@ -129,6 +128,5 @@ Through this project, I gained hands-on experience in:
 
 ## 👨‍💻 Author
 
-**Devadharshani B**  
+**Devadharshani**   
 AI-Based Healthcare System
-```
